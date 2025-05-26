@@ -32,6 +32,7 @@ This smart contract allows users to interact directly with the Ethereum blockcha
 | 🧾 Event Logs       | Emits events for `TaskCreated`, `TaskCompleted`, and `TaskDeleted`      |
 
 ---
+Contract Details:0x8d59a2d86ccb63a81e22c60901ec174cf98573b1aa1e3127fa3231347c862d92
 ![image](https://github.com/user-attachments/assets/259aa002-4a01-4492-b277-d164e3fa0575)
 
 ## 📄 Smart Contract Code
