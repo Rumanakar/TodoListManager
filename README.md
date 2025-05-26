@@ -32,6 +32,7 @@ This smart contract allows users to interact directly with the Ethereum blockcha
 | 🧾 Event Logs       | Emits events for `TaskCreated`, `TaskCompleted`, and `TaskDeleted`      |
 
 ---
+![image](https://github.com/user-attachments/assets/259aa002-4a01-4492-b277-d164e3fa0575)
 
 ## 📄 Smart Contract Code
 
@@ -104,3 +105,4 @@ contract TodoListManager {
         revert("Task not found");
     }
 }
+
